@@ -14,7 +14,5 @@ public class Plane : AuditableEntity
   public int BiznesSeats { get; set; }
   public bool TransportAnimals { get; set; }
   public Luggage MaxLuggage { get; set; }
-
-public Plane(int foo){}
 }
 
